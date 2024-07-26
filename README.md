@@ -16,12 +16,14 @@ node -v  `v16.20.2`   from here `https://nodejs.org/en/download/package-manager/
 
 1. Clone the repository
   `cd system-monitor`
-2. 
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
+3. Open two terminals:
+   - start server `node server.js`
+   - start app `npm start`
    
-
+Copy and paste to open `http://localhost:3000` in your browser!!
 
 
 ### Testing
