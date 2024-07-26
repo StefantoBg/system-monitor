@@ -3,4 +3,6 @@ Basic system connections established.  Check  IP via AbuseDB, Virustotal and Web
 
 
 # Download the app: 
+`mkdir sysmon` 
+`cd sysmon`
 `git clone https://github.com/StefantoBg/system-monitor.git`
