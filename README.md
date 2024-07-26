@@ -2,7 +2,7 @@
 
 This is a React application that gathers network connection information and checks it.
 
-Reecomendations: 
+## Recomendations: 
 node -v  `v16.20.2`   from here `https://nodejs.org/en/download/package-manager/current`
 
 ## Screenshots
