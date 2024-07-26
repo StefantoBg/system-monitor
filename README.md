@@ -27,9 +27,12 @@ Copy and paste to open `http://localhost:3000` in your browser!!
 
 
 ### Testing
+Create accounts and have an API Key from following  services: 
+- https://abuseipdb.com/
+- https://www.virustotal.com/
 
-Test the application on Windows, MacOS, and Linux, and capture screenshots. Place the screenshots in a `screenshots` folder within the repository.
+
 
 ### Conclusion
 
-This example provides a basic structure for a React application that gathers network connection information, checks it against AbuseIPDB, and ensures it runs across multiple operating systems. Additional error handling, security considerations, and UI enhancements can be added as needed.
+This example provides a basic structure for a React application that gathers network connection information, checks it against AbuseIPDB, Virustotal, WebCheck, and ensures it runs across multiple operating systems. Additional error handling, security considerations, and UI enhancements can be added as needed.
