@@ -1,27 +1,29 @@
 # Network Monitor
 
-This is a React application that gathers network connection information and checks it against the AbuseIPDB threat intelligence platform.
+This is a React application that gathers network connection information and checks it.
+
+Reecomendations: 
+node -v  `v16.20.2`   from here `https://nodejs.org/en/download/package-manager/current`
 
 ## Screenshots
+|One| Two|
+---|---
+![image](https://github.com/user-attachments/assets/bbaa92bf-0ff7-4de8-b077-6dce2abda54f) | ![image](https://github.com/user-attachments/assets/73358a73-abb2-4224-a542-6631c8c4d000)
 
-### Windows
-![Windows Screenshot](screenshots/windows.png)
 
-### MacOS
-![MacOS Screenshot](screenshots/macos.png)
-
-### Linux
-![Linux Screenshot](screenshots/linux.png)
 
 ## How to Run
 
 1. Clone the repository
+  `cd system-monitor`
 2. Install dependencies:
    ```bash
    npm install
-   cd server
-   npm install
-
+3. Open two terminals:
+   - start server `node server.js`
+   - start app `npm start`
+   
+Copy and paste to open `http://localhost:3000` in your browser!!
 
 
 ### Testing
