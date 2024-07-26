@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 
-const VIRUSTOTAL_API_KEY = '8b0f7198db820b2f7af469f3b35bba106261066b22b40158d17a05cd5fb15023';
+const VIRUSTOTAL_API_KEY = 'insert your API key here';
 const VIRUSTOTAL_API_URL = 'https://www.virustotal.com/api/v3/ip_addresses/';
 
 const checkIPWithVirusTotal = async (ip) => {
