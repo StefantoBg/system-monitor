@@ -15,7 +15,9 @@ node -v  `v16.20.2`   from here `https://nodejs.org/en/download/package-manager/
 ## How to Run
 
 1. Clone the repository
-2. Install dependencies:
+  `cd system-monitor`
+2. 
+3. Install dependencies:
    ```bash
    npm install
    
